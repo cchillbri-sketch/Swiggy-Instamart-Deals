@@ -4,7 +4,7 @@ Scan Swiggy Instamart categories for the biggest discounts, in your own
 browser as a bookmarklet or userscript. Nothing is uploaded and there is
 no account.
 
-**Live page:** http://satyamraj.in/Swiggy-Instamart-Deals/
+**Live page:** https://satyamraj.in/Swiggy-Instamart-Deals/
 
 ## What it does
 
@@ -62,9 +62,9 @@ no account.
 
 ## Install
 
-![Install walkthrough](http://satyamraj.in/PriceDrop-Hunter/media/install-demo.gif)
+![Install walkthrough](https://satyamraj.in/PriceDrop-Hunter/media/install-demo.gif)
 
-[Watch the walkthrough video (MP4)](http://satyamraj.in/PriceDrop-Hunter/media/install-demo.mp4)
+[Watch the walkthrough video (MP4)](https://satyamraj.in/PriceDrop-Hunter/media/install-demo.mp4)
 
 **Bookmarklet (desktop).** Run `node build.js`, open `index.html`, and drag the **Swiggy Instamart Deals** button to your bookmarks bar. Open swiggy.com and click the bookmark.
 
